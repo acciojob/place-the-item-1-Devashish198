@@ -1,2 +1,69 @@
-
-/* Your CSS Code here. */
+#d1{
+	background-color:red;
+	font-size:50px;
+	height:100px;
+	width:100px;
+}
+#d2{
+	background-color:blue;
+	font-size:50px;
+	height:100px;
+	width:100px;
+}
+#d3{
+	background-color:green;
+	font-size:50px;
+	height:100px;
+	width:100px;
+}
+#f1{
+	background-color:blue;
+	font-size:50px;
+	height:100px;
+	width:100px;
+}
+#f2{
+	background-color:blue;
+	font-size:50px;
+	height:100px;
+	width:100px;
+}
+#f3{
+	background-color:blue;
+	font-size:50px;
+	height:100px;
+	width:100px;
+}
+#f4{
+	background-color:blue;
+	font-size:50px;
+	height:100px;
+	width:100px;
+}
+#f5{
+	background-color:blue;
+	font-size:50px;
+	height:100px;
+	width:100px;
+}
+#f6{
+	background-color:blue;
+	font-size:50px;
+	height:100px;
+	width:100px;
+}
+#f7{
+	background-color:blue;
+	font-size:50px;
+	height:100px;
+	width:100px;
+}
+.item{
+	display:flex;
+	justify-content:space-between;
+}
+.holder{
+	display:flex;
+	flex-wrap:wrap;
+	justify-content:space-between;
+}
